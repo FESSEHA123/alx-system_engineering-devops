@@ -1,1 +1,0 @@
-helo_world scipt
