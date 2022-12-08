@@ -1,3 +1,0 @@
-0-hello_world
-output.txt
-README.md
