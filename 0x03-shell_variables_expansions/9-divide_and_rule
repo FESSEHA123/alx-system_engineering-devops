@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/nash
+echo $((POWER/DIVEDE))
 echo $((POWER/DIVIDE))#!/bin/bash
 echo
